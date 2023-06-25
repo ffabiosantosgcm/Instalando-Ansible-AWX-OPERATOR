@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ansible/awx-logos/master/awx/ui/client/assets/logo-login.svg?sanitize=true" style="width:150px;height:150px;">
+<img src="https://github.com/ffabiosantosgcm/Instalando-Ansible-AWX-OPERATOR/blob/master/logo-login.svg" style="width:150px;height:150px;">
 
 # AWX-OPERATOR
 
