@@ -2,15 +2,13 @@
 
 # AWX-OPERATOR
 
-## Introdução
-
-## Available Builds
+## Arquivos yaml
 
 * kustomization.yaml
 * awx.yaml
 * ingress.yaml
 
-## Files
+## Arquivos descrição
 - `awx.yaml` - Arquivo de configuração.
 - `'ingress.yaml` - Configuração do redirecionamento.
 - `kustomization.yaml` - Arquivo de instalação.
